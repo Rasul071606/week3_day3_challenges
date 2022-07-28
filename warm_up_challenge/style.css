@@ -1,18 +1,20 @@
 /* Figure out 5 or more DIFFERENT ways to fill in the blank 
    to produce the desired output */
 
-_________ {
+div{
     font-family: Helvetica;
     font-size: 300%;
     color: #ffd63e;
     text-align: center;
+    border: 4px black solid;
 }
 
+#
 /* Record your solutions here:
-   #1 -
-   #2 - 
-   #3 - 
-   #4 -
-   #5 -
+   #1 -  replace ____ with h1 + add a border within the parameter
+   #2 -  replace ____ with div + add a border
+   #3 - replace ____ with .pika
+   #4 -  replace ____ with .chuuuuuu
+   #5 -  replace ____ with #unique
 
    e.g. - .pika               */
